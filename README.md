@@ -6,17 +6,18 @@
 
 <h2>Implementação</h2>
     
-<p>Algortimo de MinMax (https://pt.wikipedia.org/wiki/Minimax)</p>
+<p><mark>Algoritmo de MiniMax</mark> (https://pt.wikipedia.org/wiki/Minimax)
     
-    Utilizado para verificar a melhor jogada para a "CPU" no modo difícil. Para o modo fácil foi utilizado jogadas randômicas.
-    
-<p>Utilizado Python puro</p>
+<pre>Utilizado para verificar a melhor jogada para a "CPU" no modo difícil. Para o modo fácil foi utilizado jogadas randômicas.</pre>
+</p>
 
-    Para interface foi usada a GUI Tkinter (https://wiki.python.org/moin/TkInter)
+<p><mark>Utilizando Python puro</mark>
 
-<p>Armazenar dados</p>
+<pre>Para interface foi usada a GUI Tkinter (https://wiki.python.org/moin/TkInter)</pre></p>
 
-    Para armazenar o score e nome dos jogadores foi utilizado SQLite3 (https://www.sqlite.org/). Utilização nativa do Python
+<p><mark>Armazenar dados</mark>
+
+<pre>Para armazenar o score e nome dos jogadores foi utilizado SQLite3 (https://www.sqlite.org/). Utilização nativa do Python</pre></p>
 
 <p>Testado em Python3.6.3</p>
 
