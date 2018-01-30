@@ -6,18 +6,17 @@
 
 <h2>Implementação</h2>
     
-<p><mark>Algoritmo de MiniMax</mark> (https://pt.wikipedia.org/wiki/Minimax)
+<p><strong>Algoritmo de MiniMax</strong> (https://pt.wikipedia.org/wiki/Minimax)</p>
     
-<pre>Utilizado para verificar a melhor jogada para a "CPU" no modo difícil. Para o modo fácil foi utilizado jogadas randômicas.</pre>
-</p>
+<p>Utilizado para verificar a melhor jogada para a "CPU" no modo difícil. Para o modo fácil foi utilizado jogadas randômicas.</p>
 
-<p><mark>Utilizando Python puro</mark>
+<p><strong>Utilizando Python puro</strong></p>
 
-<pre>Para interface foi usada a GUI Tkinter (https://wiki.python.org/moin/TkInter)</pre></p>
+<p>Para interface foi usada a GUI Tkinter (https://wiki.python.org/moin/TkInter)</p>
 
-<p><mark>Armazenar dados</mark>
+<p><strong>Armazenar dados</strong></p>
 
-<pre>Para armazenar o score e nome dos jogadores foi utilizado SQLite3 (https://www.sqlite.org/). Utilização nativa do Python</pre></p>
+<p>Para armazenar o score e nome dos jogadores foi utilizado SQLite3 (https://www.sqlite.org/). Utilização nativa do Python</p>
 
 <p>Testado em Python3.6.3</p>
 
@@ -28,7 +27,7 @@
 <p>Windows:</p>
 <pre><code>c:\> python App.py</code></pre>
 
-<h2>Depêndencias:</h2>
+<h2>Dependências:</h2>
 
 <p>
     Python: https://www.python.org/downloads/release/python-363/
