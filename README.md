@@ -22,10 +22,13 @@
 
 <h2>Executar aplicação</h2>
 
-<p>Executar o script .py "App" encontrado em ./src/App.py</p>
+<p>Execute o arquivo App.py</p>
 
 <p>Windows:</p>
 <pre><code>c:\> python App.py</code></pre>
+
+<p>Linux:</p>
+<pre><code>$ python3 App.py</code></pre>
 
 <h2>Dependências:</h2>
 
