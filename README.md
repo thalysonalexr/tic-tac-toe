@@ -36,12 +36,12 @@
 <h2>Screenshots</h2>
 
 ## Menu
-![Alt Text](https://github.com/thalysonrodrigues/tic-tac-toe/raw/master/pages/menu.png)
+![Alt Text](https://github.com/thalysonrodrigues/tic-tac-toe/raw/main/pages/menu.png)
 
 ## Selecionando dificuldade
-![Alt Text](https://github.com/thalysonrodrigues/tic-tac-toe/raw/master/pages/selectmode.png)
+![Alt Text](https://github.com/thalysonrodrigues/tic-tac-toe/raw/main/pages/selectmode.png)
 
 ## Jogo em execução
-![Alt Text](https://github.com/thalysonrodrigues/tic-tac-toe/raw/master/pages/running.png)
+![Alt Text](https://github.com/thalysonrodrigues/tic-tac-toe/raw/main/pages/running.png)
 
 
